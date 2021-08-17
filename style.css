@@ -1,0 +1,18 @@
+/* tags */
+body { color:springgreen;
+text-align: center;
+}
+/* id */
+#login { 
+    background-color: black;
+    color:chartreuse
+}
+/* id */
+#registre {
+    background-color: chartreuse;
+    color:black;    
+}
+/* classes */
+.copy {
+    font: size 8px;;
+}
